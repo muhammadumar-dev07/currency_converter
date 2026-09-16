@@ -16,15 +16,15 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "axios": "^1.7.9",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "scheduler": "^0.23.2",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "scheduler": "0.23.2",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
     "@vitejs/plugin-react": "^6.1.1",
     "eslint": "^10.10.0",
     "eslint-plugin-react-hooks": "^7.1.1",
